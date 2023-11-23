@@ -1,6 +1,6 @@
 <img src="banner.gif" width="300px" align="right">
 
-# ❤ Hi!!, It's good to have you here! 
+# Hi!!, It's good to have you here! 
 My name is Luis Eduardo, I'm DEV Front-End and I'm passionate about games and technology.🤓 
 
 - 💙 CSS
